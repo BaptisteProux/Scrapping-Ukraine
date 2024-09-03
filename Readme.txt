@@ -1,3 +1,5 @@
+Projet OSINT Telecom Paris de février 2023: Pas mis à jour depuis
+
 Requirement: Voir le fichier requirement.txt
 
 Lancer le script ScriptProjetScrapperUkraineGuerre pour avoir le menu avec tous les scripts disponibles 
