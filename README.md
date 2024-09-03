@@ -1,2 +1,2 @@
 # Scrapping-Ukraine
-Projet OSING Telecom Paris
+Projet OSINT Telecom Paris
